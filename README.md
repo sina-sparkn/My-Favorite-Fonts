@@ -1,6 +1,6 @@
 # My Favorite Fonts for programming
 
-### [Thread Link]()
+### [Threads Link]()
 
 I'm using [Tokyo nights Theme](https://vscodethemes.com/e/enkia.tokyo-night/tokyo-night) in VSCODE
 ## 1. Monolisa
