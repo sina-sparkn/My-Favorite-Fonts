@@ -1,10 +1,8 @@
 # My Favorite Fonts for programming
 
----
-## [Thread Link]()
----
+### [Thread Link]()
 
-`I'm using [Tokyo nights Theme](https://vscodethemes.com/e/enkia.tokyo-night/tokyo-night) in VSCODE`
+I'm using [Tokyo nights Theme](https://vscodethemes.com/e/enkia.tokyo-night/tokyo-night) in VSCODE
 ## 1. Monolisa
 ![Monolisa](images/Monolisa.png)
 
